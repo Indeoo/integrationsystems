@@ -1,4 +1,4 @@
-Developers:
-Venherak Arsenii
-Voznyi Oleksandr
-Nick K.
+## Developers:
+* Venherak Arsenii
+* Voznyi Oleksandr
+* Nick K.
